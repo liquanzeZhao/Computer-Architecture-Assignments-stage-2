@@ -1,0 +1,75 @@
+name: Autograding Tests
+'on':
+- push
+- repository_dispatch
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: Make
+      id: make
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Make
+        setup-command: ''
+        command: make
+        timeout: 1
+        max-score: 100
+    - name: Test commands1
+      id: test-commands1
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Test commands1
+        setup-command: cd tests/command_tests && ./run_command_tests
+        command: cd tests/command_tests/ && diff --suppress-common-lines -wydis --to-file=expected/
+          *.log
+        timeout: 1
+        max-score: 50
+    - name: Test harness1
+      id: test-harness1
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Test harness1
+        setup-command: cd tests/harness_tests/ && ./run_harness_tests
+        command: cd tests/harness_tests/ && diff --suppress-common-lines -wydis --to-file=expected/
+          *.log
+        timeout: 1
+        max-score: 50
+    - name: Test instructions1
+      id: test-instructions1
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Test instructions1
+        setup-command: cd tests/instruction_tests/ && ./run_instruction_tests
+        command: cd tests/instruction_tests/ && diff --suppress-common-lines -wydis
+          --to-file=expected/ *.log
+        timeout: 1
+        max-score: 400
+    - name: Test compiled1
+      id: test-compiled1
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Test compiled1
+        setup-command: cd tests/instruction_tests/ && diff --suppress-common-lines
+          -wydis --to-file=expected/ *.log && cd ../compiled_tests/ && ./run_compiled_tests
+        command: cd tests/compiled_tests/ && diff --suppress-common-lines -wydis --to-file=expected/
+          *.log
+        timeout: 2
+        max-score: 100
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        MAKE_RESULTS: "${{steps.make.outputs.result}}"
+        TEST-COMMANDS1_RESULTS: "${{steps.test-commands1.outputs.result}}"
+        TEST-HARNESS1_RESULTS: "${{steps.test-harness1.outputs.result}}"
+        TEST-INSTRUCTIONS1_RESULTS: "${{steps.test-instructions1.outputs.result}}"
+        TEST-COMPILED1_RESULTS: "${{steps.test-compiled1.outputs.result}}"
+      with:
+        runners: make,test-commands1,test-harness1,test-instructions1,test-compiled1
