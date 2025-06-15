@@ -1,0 +1,4 @@
+*.dump
+*.log
+expected/?*
+!expected/*.log

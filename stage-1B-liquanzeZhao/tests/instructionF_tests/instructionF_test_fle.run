@@ -1,0 +1,5 @@
+l "instructionF_test_fle.hex"
+b 0
+.
+. 1000
+x10

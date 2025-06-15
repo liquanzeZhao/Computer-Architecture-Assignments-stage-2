@@ -1,0 +1,5 @@
+l "fcvt_test.hex"
+b 0
+.
+. 1000
+x10

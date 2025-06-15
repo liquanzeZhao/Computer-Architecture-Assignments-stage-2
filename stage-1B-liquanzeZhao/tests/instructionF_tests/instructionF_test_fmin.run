@@ -1,0 +1,5 @@
+l "instructionF_test_fmin.hex"
+b 0
+.
+. 1000
+x10

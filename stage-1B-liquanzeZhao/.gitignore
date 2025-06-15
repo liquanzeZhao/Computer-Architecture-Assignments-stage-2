@@ -32,6 +32,4 @@
 *.app
 
 # Assignment specifics
-/tests
-/rv64sim-skeleton
 *.log

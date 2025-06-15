@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#export RV64SIM_FLAGS="-s2"
+
+for i in *.hex; do
+  echo "**** Running ${i%.hex} *****"
+  ./run_test ${i%.hex} > ${i%.hex}${RV64SIM_FLAGS// /}.log && grep "0000000000000001" ./${i%.hex}.log && echo ${i%.hex}" ok"
+done
+

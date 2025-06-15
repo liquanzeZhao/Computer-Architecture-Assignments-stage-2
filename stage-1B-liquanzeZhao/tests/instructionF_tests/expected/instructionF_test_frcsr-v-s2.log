@@ -1,0 +1,586 @@
+Memory write doubleword: address = 0000000000000000, data = 0000000000000013, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000000, data = 0000000000000500, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000000, data = 0000000000000000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000000, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000000, data = 0000009b00000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000000, data = 00000f0000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000000, data = 0010000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000000, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000008, data = 0000000000000093, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000008, data = 0000000000009f00, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000008, data = 00000000008f0000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000008, data = 0000000002000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000008, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000008, data = 00008f0000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000008, data = 00ff000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000008, data = ff00000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000010, data = 0000000000000037, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000010, data = 000000000000bf00, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000010, data = 0000000000aa0000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000010, data = 000000000a000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000010, data = 0000001b00000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000010, data = 00000f0000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000010, data = 00bf000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000010, data = aa00000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000018, data = 0000000000000013, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000018, data = 0000000000001f00, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000018, data = 0000000000cf0000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000018, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000018, data = 0000001300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000018, data = 00000f0000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000018, data = 00af000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000018, data = aa00000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000020, data = 00000000000000b7, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000020, data = 0000000000005e00, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000020, data = 0000000000550000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000020, data = 0000000005000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000020, data = 0000009b00000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000020, data = 00008e0000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000020, data = 005e000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000020, data = 5500000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000028, data = 0000000000000093, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000028, data = 0000000000009e00, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000028, data = 0000000000ce0000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000028, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000028, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000028, data = 00008e0000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000028, data = 005e000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000028, data = 5500000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000030, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000030, data = 0000000000002200, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000030, data = 0000000000300000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000030, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000030, data = 0000007300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000030, data = 0000230000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000030, data = 0020000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000030, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000038, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000038, data = 0000000000002300, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000038, data = 0000000000100000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000038, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000038, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000038, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000038, data = 0000000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000038, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000040, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000040, data = 0000000000009400, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000040, data = 0000000000b20000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000040, data = 0000000010000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000040, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000040, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000040, data = 0000000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000040, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000048, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000048, data = 0000000000001000, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000048, data = 0000000000b30000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000048, data = 0000000010000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000048, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000048, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000048, data = 0000000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000048, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000050, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000050, data = 0000000000009c00, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000050, data = 0000000000b30000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000050, data = 000000000e000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000050, data = 000000f300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000050, data = 0000920000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000050, data = 003f000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000050, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000058, data = 0000000000000093, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000058, data = 0000000000000500, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000058, data = 0000000000000000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000058, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000058, data = 0000006300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000058, data = 0000960000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000058, data = 00b2000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000058, data = 0e00000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000060, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000060, data = 0000000000002200, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000060, data = 0000000000300000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000060, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000060, data = 0000007300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000060, data = 0000230000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000060, data = 0020000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000060, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000068, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000068, data = 0000000000002300, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000068, data = 0000000000100000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000068, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000068, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000068, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000068, data = 00f0000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000068, data = 0f00000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000070, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000070, data = 0000000000009c00, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000070, data = 0000000000b20000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000070, data = 000000000c000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000070, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000070, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000070, data = 0070000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000070, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000078, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000078, data = 0000000000001800, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000078, data = 0000000000b30000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000078, data = 000000000c000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000078, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000078, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000078, data = 00f0000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000078, data = 0100000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000080, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000080, data = 0000000000009400, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000080, data = 0000000000b30000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000080, data = 000000000c000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000080, data = 000000f300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000080, data = 0000120000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000080, data = 003f000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000080, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000088, data = 0000000000000093, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000088, data = 0000000000000500, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000088, data = 0000000000f00000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000088, data = 000000000f000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000088, data = 0000006300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000088, data = 00009e0000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000088, data = 00b2000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000088, data = 0a00000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000090, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000090, data = 0000000000002200, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000090, data = 0000000000300000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000090, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000090, data = 0000007300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000090, data = 0000230000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000090, data = 0020000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000090, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000098, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000098, data = 0000000000002300, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000098, data = 0000000000100000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000098, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000098, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000098, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000098, data = 00a0000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000098, data = 0a00000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000a0, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000a0, data = 0000000000009400, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000a0, data = 0000000000b20000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000a0, data = 000000000a000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000a0, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000a0, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000a0, data = 0050000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000a0, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000a8, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000a8, data = 0000000000001000, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000a8, data = 0000000000b30000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000a8, data = 000000000a000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000a8, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000a8, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000a8, data = 00a0000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000a8, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000b0, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000b0, data = 0000000000009c00, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000b0, data = 0000000000b30000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000b0, data = 0000000008000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000b0, data = 000000f300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000b0, data = 0000920000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000b0, data = 003e000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000b0, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000b8, data = 0000000000000093, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000b8, data = 0000000000000500, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000b8, data = 0000000000a00000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000b8, data = 000000000a000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000b8, data = 0000006300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000b8, data = 0000960000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000b8, data = 00b2000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000b8, data = 0800000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000c0, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000c0, data = 0000000000002200, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000c0, data = 0000000000300000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000c0, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000c0, data = 0000007300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000c0, data = 0000230000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000c0, data = 0020000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000c0, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000c8, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000c8, data = 0000000000002300, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000c8, data = 0000000000100000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000c8, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000c8, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000c8, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000c8, data = 0050000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000c8, data = 0500000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000d0, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000d0, data = 0000000000009c00, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000d0, data = 0000000000b20000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000d0, data = 0000000006000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000d0, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000d0, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000d0, data = 0020000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000d0, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000d8, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000d8, data = 0000000000001800, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000d8, data = 0000000000b30000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000d8, data = 0000000006000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000d8, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000d8, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000d8, data = 0050000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000d8, data = 0100000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000e0, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000e0, data = 0000000000009400, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000e0, data = 0000000000b30000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000e0, data = 0000000006000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000e0, data = 000000f300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000e0, data = 0000920000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000e0, data = 002e000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000e0, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000e8, data = 0000000000000093, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000e8, data = 0000000000000500, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000e8, data = 0000000000200000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000e8, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000e8, data = 0000006300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000e8, data = 00009e0000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000e8, data = 00b2000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000e8, data = 0400000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000f0, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000f0, data = 0000000000002200, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000f0, data = 0000000000300000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000f0, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000f0, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000f0, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000f0, data = 0050000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000f0, data = 0b00000000000000, mask = ff00000000000000
+Memory write doubleword: address = 00000000000000f8, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 00000000000000f8, data = 0000000000009800, mask = 000000000000ff00
+Memory write doubleword: address = 00000000000000f8, data = 0000000000b20000, mask = 0000000000ff0000
+Memory write doubleword: address = 00000000000000f8, data = 0000000004000000, mask = 00000000ff000000
+Memory write doubleword: address = 00000000000000f8, data = 000000f300000000, mask = 000000ff00000000
+Memory write doubleword: address = 00000000000000f8, data = 0000120000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 00000000000000f8, data = 002f000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 00000000000000f8, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000100, data = 0000000000000093, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000100, data = 0000000000000500, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000100, data = 0000000000500000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000100, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000100, data = 0000006300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000100, data = 0000920000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000100, data = 00b2000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000100, data = 0400000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000108, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000108, data = 0000000000002200, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000108, data = 0000000000300000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000108, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000108, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000108, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000108, data = 0050000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000108, data = 0500000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000110, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000110, data = 0000000000009c00, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000110, data = 0000000000b20000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000110, data = 0000000002000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000110, data = 000000f300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000110, data = 0000120000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000110, data = 001f000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000110, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000118, data = 0000000000000093, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000118, data = 0000000000000500, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000118, data = 0000000000500000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000118, data = 0000000001000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000118, data = 0000006300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000118, data = 0000960000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000118, data = 00b2000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000118, data = 0200000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000120, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000120, data = 0000000000002200, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000120, data = 0000000000300000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000120, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000120, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000120, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000120, data = 00a0000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000120, data = 0400000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000128, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000128, data = 0000000000009000, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000128, data = 0000000000b20000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000128, data = 0000000002000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000128, data = 000000f300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000128, data = 0000920000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000128, data = 001e000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000128, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000130, data = 0000000000000093, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000130, data = 0000000000000500, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000130, data = 0000000000a00000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000130, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000130, data = 0000006300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000130, data = 00009a0000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000130, data = 00b2000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000130, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000138, data = 00000000000000f3, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000138, data = 0000000000002200, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000138, data = 0000000000300000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000138, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000138, data = 0000009300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000138, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000138, data = 0050000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000138, data = 0500000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000140, data = 0000000000000063, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000140, data = 0000000000009400, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000140, data = 0000000000b20000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000140, data = 0000000000000000, mask = 00000000ff000000
+Memory write doubleword: address = 0000000000000140, data = 0000001300000000, mask = 000000ff00000000
+Memory write doubleword: address = 0000000000000140, data = 0000050000000000, mask = 0000ff0000000000
+Memory write doubleword: address = 0000000000000140, data = 0010000000000000, mask = 00ff000000000000
+Memory write doubleword: address = 0000000000000140, data = 0000000000000000, mask = ff00000000000000
+Memory write doubleword: address = 0000000000000148, data = 0000000000000067, mask = 00000000000000ff
+Memory write doubleword: address = 0000000000000148, data = 0000000000000000, mask = 000000000000ff00
+Memory write doubleword: address = 0000000000000148, data = 0000000000000000, mask = 0000000000ff0000
+Memory write doubleword: address = 0000000000000148, data = 0000000000000000, mask = 00000000ff000000
+332 bytes loaded, start address = 0000000000000000
+Breakpoint set at 0000000000000000
+Memory read doubleword: address = 0000000000000000, data = 00100f9b00000513
+Fetch: pc = 0000000000000000, ir = 00000513
+addi: rd = 10, rs1 = 0, immed_I = 0000000000000000
+Memory read doubleword: address = 0000000000000000, data = 00100f9b00000513
+Fetch: pc = 0000000000000004, ir = 00100f9b
+addiw: rd = 31, rs1 = 0, immed_I = 0000000000000001
+Memory read doubleword: address = 0000000000000008, data = ffff8f93028f9f93
+Fetch: pc = 0000000000000008, ir = 028f9f93
+slli: rd = 31, rs1 = 31, shamt = 40
+Memory read doubleword: address = 0000000000000008, data = ffff8f93028f9f93
+Fetch: pc = 000000000000000c, ir = ffff8f93
+addi: rd = 31, rs1 = 31, immed_I = ffffffffffffffff
+Memory read doubleword: address = 0000000000000010, data = aabf0f1b0aaabf37
+Fetch: pc = 0000000000000010, ir = 0aaabf37
+lui: rd = 30, immed_U = 000000000aaab000
+Memory read doubleword: address = 0000000000000010, data = aabf0f1b0aaabf37
+Fetch: pc = 0000000000000014, ir = aabf0f1b
+addiw: rd = 30, rs1 = 30, immed_I = fffffffffffffaab
+Memory read doubleword: address = 0000000000000018, data = aaaf0f1300cf1f13
+Fetch: pc = 0000000000000018, ir = 00cf1f13
+slli: rd = 30, rs1 = 30, shamt = 12
+Memory read doubleword: address = 0000000000000018, data = aaaf0f1300cf1f13
+Fetch: pc = 000000000000001c, ir = aaaf0f13
+addi: rd = 30, rs1 = 30, immed_I = fffffffffffffaaa
+Memory read doubleword: address = 0000000000000020, data = 555e8e9b05555eb7
+Fetch: pc = 0000000000000020, ir = 05555eb7
+lui: rd = 29, immed_U = 0000000005555000
+Memory read doubleword: address = 0000000000000020, data = 555e8e9b05555eb7
+Fetch: pc = 0000000000000024, ir = 555e8e9b
+addiw: rd = 29, rs1 = 29, immed_I = 0000000000000555
+Memory read doubleword: address = 0000000000000028, data = 555e8e9300ce9e93
+Fetch: pc = 0000000000000028, ir = 00ce9e93
+slli: rd = 29, rs1 = 29, shamt = 12
+Memory read doubleword: address = 0000000000000028, data = 555e8e9300ce9e93
+Fetch: pc = 000000000000002c, ir = 555e8e93
+addi: rd = 29, rs1 = 29, immed_I = 0000000000000555
+Memory read doubleword: address = 0000000000000030, data = 00202373003022f3
+Fetch: pc = 0000000000000030, ir = 003022f3
+csrrs: rd = 5, rs1 = 0, csr_num = 003
+Memory read doubleword: address = 0000000000000030, data = 00202373003022f3
+Fetch: pc = 0000000000000034, ir = 00202373
+csrrs: rd = 6, rs1 = 0, csr_num = 002
+Memory read doubleword: address = 0000000000000038, data = 00000593001023f3
+Fetch: pc = 0000000000000038, ir = 001023f3
+csrrs: rd = 7, rs1 = 0, csr_num = 001
+Memory read doubleword: address = 0000000000000038, data = 00000593001023f3
+Fetch: pc = 000000000000003c, ir = 00000593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000000
+Memory read doubleword: address = 0000000000000040, data = 0000059310b29463
+Fetch: pc = 0000000000000040, ir = 10b29463
+bne: rs1 = 5, rs2 = 11, immed_B = 0000000000000108
+Memory read doubleword: address = 0000000000000040, data = 0000059310b29463
+Fetch: pc = 0000000000000044, ir = 00000593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000000
+Memory read doubleword: address = 0000000000000048, data = 0000059310b31063
+Fetch: pc = 0000000000000048, ir = 10b31063
+bne: rs1 = 6, rs2 = 11, immed_B = 0000000000000100
+Memory read doubleword: address = 0000000000000048, data = 0000059310b31063
+Fetch: pc = 000000000000004c, ir = 00000593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000000
+Memory read doubleword: address = 0000000000000050, data = 003f92f30eb39c63
+Fetch: pc = 0000000000000050, ir = 0eb39c63
+bne: rs1 = 7, rs2 = 11, immed_B = 00000000000000f8
+Memory read doubleword: address = 0000000000000050, data = 003f92f30eb39c63
+Fetch: pc = 0000000000000054, ir = 003f92f3
+csrrw: rd = 5, rs1 = 31, csr_num = 003
+Memory read doubleword: address = 0000000000000058, data = 0eb2966300000593
+Fetch: pc = 0000000000000058, ir = 00000593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000000
+Memory read doubleword: address = 0000000000000058, data = 0eb2966300000593
+Fetch: pc = 000000000000005c, ir = 0eb29663
+bne: rs1 = 5, rs2 = 11, immed_B = 00000000000000ec
+Memory read doubleword: address = 0000000000000060, data = 00202373003022f3
+Fetch: pc = 0000000000000060, ir = 003022f3
+csrrs: rd = 5, rs1 = 0, csr_num = 003
+Memory read doubleword: address = 0000000000000060, data = 00202373003022f3
+Fetch: pc = 0000000000000064, ir = 00202373
+csrrs: rd = 6, rs1 = 0, csr_num = 002
+Memory read doubleword: address = 0000000000000068, data = 0ff00593001023f3
+Fetch: pc = 0000000000000068, ir = 001023f3
+csrrs: rd = 7, rs1 = 0, csr_num = 001
+Memory read doubleword: address = 0000000000000068, data = 0ff00593001023f3
+Fetch: pc = 000000000000006c, ir = 0ff00593
+addi: rd = 11, rs1 = 0, immed_I = 00000000000000ff
+Memory read doubleword: address = 0000000000000070, data = 007005930cb29c63
+Fetch: pc = 0000000000000070, ir = 0cb29c63
+bne: rs1 = 5, rs2 = 11, immed_B = 00000000000000d8
+Memory read doubleword: address = 0000000000000070, data = 007005930cb29c63
+Fetch: pc = 0000000000000074, ir = 00700593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000007
+Memory read doubleword: address = 0000000000000078, data = 01f005930cb31863
+Fetch: pc = 0000000000000078, ir = 0cb31863
+bne: rs1 = 6, rs2 = 11, immed_B = 00000000000000d0
+Memory read doubleword: address = 0000000000000078, data = 01f005930cb31863
+Fetch: pc = 000000000000007c, ir = 01f00593
+addi: rd = 11, rs1 = 0, immed_I = 000000000000001f
+Memory read doubleword: address = 0000000000000080, data = 003f12f30cb39463
+Fetch: pc = 0000000000000080, ir = 0cb39463
+bne: rs1 = 7, rs2 = 11, immed_B = 00000000000000c8
+Memory read doubleword: address = 0000000000000080, data = 003f12f30cb39463
+Fetch: pc = 0000000000000084, ir = 003f12f3
+csrrw: rd = 5, rs1 = 30, csr_num = 003
+Memory read doubleword: address = 0000000000000088, data = 0ab29e630ff00593
+Fetch: pc = 0000000000000088, ir = 0ff00593
+addi: rd = 11, rs1 = 0, immed_I = 00000000000000ff
+Memory read doubleword: address = 0000000000000088, data = 0ab29e630ff00593
+Fetch: pc = 000000000000008c, ir = 0ab29e63
+bne: rs1 = 5, rs2 = 11, immed_B = 00000000000000bc
+Memory read doubleword: address = 0000000000000090, data = 00202373003022f3
+Fetch: pc = 0000000000000090, ir = 003022f3
+csrrs: rd = 5, rs1 = 0, csr_num = 003
+Memory read doubleword: address = 0000000000000090, data = 00202373003022f3
+Fetch: pc = 0000000000000094, ir = 00202373
+csrrs: rd = 6, rs1 = 0, csr_num = 002
+Memory read doubleword: address = 0000000000000098, data = 0aa00593001023f3
+Fetch: pc = 0000000000000098, ir = 001023f3
+csrrs: rd = 7, rs1 = 0, csr_num = 001
+Memory read doubleword: address = 0000000000000098, data = 0aa00593001023f3
+Fetch: pc = 000000000000009c, ir = 0aa00593
+addi: rd = 11, rs1 = 0, immed_I = 00000000000000aa
+Memory read doubleword: address = 00000000000000a0, data = 005005930ab29463
+Fetch: pc = 00000000000000a0, ir = 0ab29463
+bne: rs1 = 5, rs2 = 11, immed_B = 00000000000000a8
+Memory read doubleword: address = 00000000000000a0, data = 005005930ab29463
+Fetch: pc = 00000000000000a4, ir = 00500593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000005
+Memory read doubleword: address = 00000000000000a8, data = 00a005930ab31063
+Fetch: pc = 00000000000000a8, ir = 0ab31063
+bne: rs1 = 6, rs2 = 11, immed_B = 00000000000000a0
+Memory read doubleword: address = 00000000000000a8, data = 00a005930ab31063
+Fetch: pc = 00000000000000ac, ir = 00a00593
+addi: rd = 11, rs1 = 0, immed_I = 000000000000000a
+Memory read doubleword: address = 00000000000000b0, data = 003e92f308b39c63
+Fetch: pc = 00000000000000b0, ir = 08b39c63
+bne: rs1 = 7, rs2 = 11, immed_B = 0000000000000098
+Memory read doubleword: address = 00000000000000b0, data = 003e92f308b39c63
+Fetch: pc = 00000000000000b4, ir = 003e92f3
+csrrw: rd = 5, rs1 = 29, csr_num = 003
+Memory read doubleword: address = 00000000000000b8, data = 08b296630aa00593
+Fetch: pc = 00000000000000b8, ir = 0aa00593
+addi: rd = 11, rs1 = 0, immed_I = 00000000000000aa
+Memory read doubleword: address = 00000000000000b8, data = 08b296630aa00593
+Fetch: pc = 00000000000000bc, ir = 08b29663
+bne: rs1 = 5, rs2 = 11, immed_B = 000000000000008c
+Memory read doubleword: address = 00000000000000c0, data = 00202373003022f3
+Fetch: pc = 00000000000000c0, ir = 003022f3
+csrrs: rd = 5, rs1 = 0, csr_num = 003
+Memory read doubleword: address = 00000000000000c0, data = 00202373003022f3
+Fetch: pc = 00000000000000c4, ir = 00202373
+csrrs: rd = 6, rs1 = 0, csr_num = 002
+Memory read doubleword: address = 00000000000000c8, data = 05500593001023f3
+Fetch: pc = 00000000000000c8, ir = 001023f3
+csrrs: rd = 7, rs1 = 0, csr_num = 001
+Memory read doubleword: address = 00000000000000c8, data = 05500593001023f3
+Fetch: pc = 00000000000000cc, ir = 05500593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000055
+Memory read doubleword: address = 00000000000000d0, data = 0020059306b29c63
+Fetch: pc = 00000000000000d0, ir = 06b29c63
+bne: rs1 = 5, rs2 = 11, immed_B = 0000000000000078
+Memory read doubleword: address = 00000000000000d0, data = 0020059306b29c63
+Fetch: pc = 00000000000000d4, ir = 00200593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000002
+Memory read doubleword: address = 00000000000000d8, data = 0150059306b31863
+Fetch: pc = 00000000000000d8, ir = 06b31863
+bne: rs1 = 6, rs2 = 11, immed_B = 0000000000000070
+Memory read doubleword: address = 00000000000000d8, data = 0150059306b31863
+Fetch: pc = 00000000000000dc, ir = 01500593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000015
+Memory read doubleword: address = 00000000000000e0, data = 002e92f306b39463
+Fetch: pc = 00000000000000e0, ir = 06b39463
+bne: rs1 = 7, rs2 = 11, immed_B = 0000000000000068
+Memory read doubleword: address = 00000000000000e0, data = 002e92f306b39463
+Fetch: pc = 00000000000000e4, ir = 002e92f3
+csrrw: rd = 5, rs1 = 29, csr_num = 002
+Memory read doubleword: address = 00000000000000e8, data = 04b29e6300200593
+Fetch: pc = 00000000000000e8, ir = 00200593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000002
+Memory read doubleword: address = 00000000000000e8, data = 04b29e6300200593
+Fetch: pc = 00000000000000ec, ir = 04b29e63
+bne: rs1 = 5, rs2 = 11, immed_B = 000000000000005c
+Memory read doubleword: address = 00000000000000f0, data = 0b500593003022f3
+Fetch: pc = 00000000000000f0, ir = 003022f3
+csrrs: rd = 5, rs1 = 0, csr_num = 003
+Memory read doubleword: address = 00000000000000f0, data = 0b500593003022f3
+Fetch: pc = 00000000000000f4, ir = 0b500593
+addi: rd = 11, rs1 = 0, immed_I = 00000000000000b5
+Memory read doubleword: address = 00000000000000f8, data = 002f12f304b29863
+Fetch: pc = 00000000000000f8, ir = 04b29863
+bne: rs1 = 5, rs2 = 11, immed_B = 0000000000000050
+Memory read doubleword: address = 00000000000000f8, data = 002f12f304b29863
+Fetch: pc = 00000000000000fc, ir = 002f12f3
+csrrw: rd = 5, rs1 = 30, csr_num = 002
+Memory read doubleword: address = 0000000000000100, data = 04b2926300500593
+Fetch: pc = 0000000000000100, ir = 00500593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000005
+Memory read doubleword: address = 0000000000000100, data = 04b2926300500593
+Fetch: pc = 0000000000000104, ir = 04b29263
+bne: rs1 = 5, rs2 = 11, immed_B = 0000000000000044
+Memory read doubleword: address = 0000000000000108, data = 05500593003022f3
+Fetch: pc = 0000000000000108, ir = 003022f3
+csrrs: rd = 5, rs1 = 0, csr_num = 003
+Memory read doubleword: address = 0000000000000108, data = 05500593003022f3
+Fetch: pc = 000000000000010c, ir = 05500593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000055
+Memory read doubleword: address = 0000000000000110, data = 001f12f302b29c63
+Fetch: pc = 0000000000000110, ir = 02b29c63
+bne: rs1 = 5, rs2 = 11, immed_B = 0000000000000038
+Memory read doubleword: address = 0000000000000110, data = 001f12f302b29c63
+Fetch: pc = 0000000000000114, ir = 001f12f3
+csrrw: rd = 5, rs1 = 30, csr_num = 001
+Memory read doubleword: address = 0000000000000118, data = 02b2966301500593
+Fetch: pc = 0000000000000118, ir = 01500593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000015
+Memory read doubleword: address = 0000000000000118, data = 02b2966301500593
+Fetch: pc = 000000000000011c, ir = 02b29663
+bne: rs1 = 5, rs2 = 11, immed_B = 000000000000002c
+Memory read doubleword: address = 0000000000000120, data = 04a00593003022f3
+Fetch: pc = 0000000000000120, ir = 003022f3
+csrrs: rd = 5, rs1 = 0, csr_num = 003
+Memory read doubleword: address = 0000000000000120, data = 04a00593003022f3
+Fetch: pc = 0000000000000124, ir = 04a00593
+addi: rd = 11, rs1 = 0, immed_I = 000000000000004a
+Memory read doubleword: address = 0000000000000128, data = 001e92f302b29063
+Fetch: pc = 0000000000000128, ir = 02b29063
+bne: rs1 = 5, rs2 = 11, immed_B = 0000000000000020
+Memory read doubleword: address = 0000000000000128, data = 001e92f302b29063
+Fetch: pc = 000000000000012c, ir = 001e92f3
+csrrw: rd = 5, rs1 = 29, csr_num = 001
+Memory read doubleword: address = 0000000000000130, data = 00b29a6300a00593
+Fetch: pc = 0000000000000130, ir = 00a00593
+addi: rd = 11, rs1 = 0, immed_I = 000000000000000a
+Memory read doubleword: address = 0000000000000130, data = 00b29a6300a00593
+Fetch: pc = 0000000000000134, ir = 00b29a63
+bne: rs1 = 5, rs2 = 11, immed_B = 0000000000000014
+Memory read doubleword: address = 0000000000000138, data = 05500593003022f3
+Fetch: pc = 0000000000000138, ir = 003022f3
+csrrs: rd = 5, rs1 = 0, csr_num = 003
+Memory read doubleword: address = 0000000000000138, data = 05500593003022f3
+Fetch: pc = 000000000000013c, ir = 05500593
+addi: rd = 11, rs1 = 0, immed_I = 0000000000000055
+Memory read doubleword: address = 0000000000000140, data = 0010051300b29463
+Fetch: pc = 0000000000000140, ir = 00b29463
+bne: rs1 = 5, rs2 = 11, immed_B = 0000000000000008
+Memory read doubleword: address = 0000000000000140, data = 0010051300b29463
+Fetch: pc = 0000000000000144, ir = 00100513
+addi: rd = 10, rs1 = 0, immed_I = 0000000000000001
+Memory read doubleword: address = 0000000000000148, data = 0000000000000067
+Fetch: pc = 0000000000000148, ir = 00000067
+jalr: rd = 0, rs1 = 0, immed_I = 0000000000000000
+Breakpoint reached at 0000000000000000
+0000000000000001
+Instructions executed: 83

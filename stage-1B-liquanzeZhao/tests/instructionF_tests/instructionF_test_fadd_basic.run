@@ -1,0 +1,5 @@
+l "instructionF_test_fadd_basic.hex"
+b 0
+.
+. 1000
+x10
